@@ -1,1 +1,2 @@
-just my written stories that part of my wild imagination better not read it with family
+# dokumen permukaan
+branch yang isinya tulisan-tulisan aman
